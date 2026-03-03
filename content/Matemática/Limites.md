@@ -1,13 +1,16 @@
 ---
 tags:
-  - Matemática
+    - Matemática
 date: 2026-03-02
-edit: 2026-03-02T21:40:00
+edit: 2026-03-02
 ---
+
 > [!info] Recursos
+>
 > - [📹 O que é um Limite | Ponto Matemático](https://www.youtube.com/watch?v=nNmYF74Bh3w)
 > - [📹 Limites | Matemático no Papel](https://youtube.com/playlist?list=PL-LPJn0YTIEGfXwn9F-0uW4ck2T_-1sQs&si=I_5zDx2iiLOS2nfa)
 > - [📚 Limits | Math is Fun](https://www.mathsisfun.com/calculus/limits.html)
+> - [📚 Limits | OpenStax](https://openstax.org/books/calculus-volume-1/pages/2-introduction)
 
 ## Introdução
 
@@ -34,7 +37,7 @@ Perceba que a medida que $x$ se aproxima de $0$:
 
 Se aumentarmos o campo de visão do gráfico, observaremos que $y$ aumenta e diminui **infinitamente**:
 
- ![Gráfico da Função Ampliado | 300x300](fx_1-by-x_zoomout.svg)
+![Gráfico da Função Ampliado | 300x300](fx_1-by-x_zoomout.svg)
 
 Dessa forma, podemos dizer que:
 
@@ -91,7 +94,7 @@ Espera! Na tabela aproximamos $x$ pela **direita**, será que acontece a mesma c
 | 0.999  | 1.999                          |
 | 0.9999 | 1.9999                         |
 
-Certo! Diferente da função do início, quando $x$ tende $1$ tanto pela **direita** e pela **esquerda**, $y$ ou $f(x)$ tende a $2$, ou seja, essa função há um limite 
+Certo! Diferente da função do início, quando $x$ tende $1$ tanto pela **direita** e pela **esquerda**, $y$ ou $f(x)$ tende a $2$, ou seja, essa função há um limite
 
 Veja o gráfico:
 
@@ -100,3 +103,183 @@ Veja o gráfico:
 ## Fórmula
 
 $\displaystyle{\lim_{ x \to a }} \, f(x) = L$
+
+## Função Contínua
+
+Uma função é contínua quando:
+
+- a função está definida em $a$
+- o limite de $x$ tendendo a $a$ existe (os limites laterais são iguais)
+- o valor do limite coincide com o valor da função em $a$ ($\displaystyle{\lim_{ x \to a }} \, f(x) = f(a)$)
+
+Uma característica visível dessa função é o seu gráfico, onde não há **quebras**, **saltos** ou **buracos**, ou seja, a linha do gráfico permanece contínua
+
+Nesses casos, durante a resolução dos limites, podemos adotar $x=a$
+
+## Propriedades
+
+**As propriedades abaixo serão abordas com exemplos sem indeterminações, ou seja, sem que haja um caso como $\frac{0}{0}$**
+
+**Indeterminações serão abordas posteriormente**
+
+### Limite de uma Constante
+
+Dada a função:
+
+$f(x) = K$
+
+Onde $K$ é uma constante
+
+O limite de $f(x)$ quando $x$ tende a $a$ sempre será $K$
+
+$\displaystyle{\lim_{ x \to a }} \, K = K$
+
+**Digamos $K=1$**
+
+$\displaystyle{\lim_{ x \to -3 }} \, 1 = 1$
+
+**Digamos $K=7$**
+
+$\displaystyle{\lim_{ x \to +\infty }} \, 7 = 7$
+
+Não importa o valor de $a$, o limite sempre será a própria constante
+
+### Limite da Soma
+
+Dado as funções:
+
+$f(x) = x$
+$g(x) = 3$
+
+O limite de $f(x) + g(x)$ será:
+
+$$\displaystyle{\lim_{ x \to a }} \, (f(x) + g(x)) = \displaystyle{\lim_{ x \to a }} \, f(x) + \displaystyle{\lim_{ x \to a }} \, g(x)$$
+
+Digamos que $a=2$
+
+$$\displaystyle{\lim_{ x \to 2 }} \, (f(x) + g(x)) = \displaystyle{\lim_{ x \to 2 }} \, f(x) + \displaystyle{\lim_{ x \to 2 }} \, g(x)$$
+$$=\displaystyle{\lim_{ x \to 2 }} \, x + \displaystyle{\lim_{ x \to 2 }} \, 3$$$$= x + 3$$
+$$= 2 + 3 = 5$$
+
+### Limite da Diferença
+
+O **Limite da Diferença** segue o mesmo princípio do **Limite da Soma**. A única coisa que muda é a operação
+
+Dado as funções:
+
+$f(x) = x + 1$
+$g(x) = x^2$
+
+O limite de $f(x) - g(x)$ será:
+
+$$\displaystyle{\lim_{ x \to a }} \, (f(x) - g(x)) = \displaystyle{\lim_{ x \to a }} \, f(x) - \displaystyle{\lim_{ x \to a }} \, g(x)$$
+Digamos que $a=3$
+
+$$\displaystyle{\lim_{ x \to 3 }} \, (f(x) - g(x)) = \displaystyle{\lim_{ x \to 3 }} \, f(x) - \displaystyle{\lim_{ x \to 3 }} \, g(x)$$
+$$=\displaystyle{\lim_{ x \to 3 }} \, (x + 1) + \displaystyle{\lim_{ x \to 3 }} \, x ²$$$$= x + 1 + x^2$$
+$$= 3 + 1 + 3^2 = 13$$
+
+### Limite do Produto
+
+Dado as funções:
+
+$f(x) = x$
+$g(x) = 3$
+
+O limite de $f(x) \cdot g(x)$ será:
+
+$$\displaystyle{\lim_{ x \to a }} \, (f(x) \cdot g(x)) = \displaystyle{\lim_{ x \to a }} \, f(x) \cdot \displaystyle{\lim_{ x \to a }} \, g(x)$$
+Digamos que $a=2$
+
+$$\displaystyle{\lim_{ x \to 2 }} \, (f(x) \cdot g(x)) = \displaystyle{\lim_{ x \to 2 }} \, f(x) \cdot \displaystyle{\lim_{ x \to 2 }} \, g(x)$$
+$$=\displaystyle{\lim_{ x \to 2 }} \, x \cdot \displaystyle{\lim_{ x \to 2 }} \, 3$$$$= x \cdot 3$$
+$$= 2 \cdot 3 = 6$$
+
+### Limite do Quociente
+
+Dado as funções:
+
+$f(x) = x + 1$
+$g(x) = x^2$
+
+O limite de $\dfrac{f(x)}{g(x)}$ será:
+
+$$\displaystyle{\lim_{ x \to a }} \, \dfrac{f(x)}{g(x)} = \frac{\displaystyle{\lim_{ x \to a }} \, f(x)}{\displaystyle{\lim_{ x \to a }} \, g(x)} = \dfrac{L}{M}$$
+Onde $M \ne 0$
+
+Digamos que $a=3$
+
+$$\displaystyle{\lim_{ x \to 3 }} \, \dfrac{f(x)}{g(x)} = \frac{\displaystyle{\lim_{ x \to 3 }} \, f(x)}{\displaystyle{\lim_{ x \to 3 }} \, g(x)}$$
+$$= \dfrac{\displaystyle{\lim_{ x \to 3 } (x+1)}}{\displaystyle{\lim_{ x \to 3 } x^2}}$$
+$$= \dfrac{x+1}{x^2}$$
+$$= \dfrac{3+1}{3^2} = \dfrac{4}{9}$$
+
+### Limite da Potência
+
+Dada a função:
+
+$f(x) = x^2 + x$
+
+O limite de $(f(x))^n$ será:
+
+$$\displaystyle{\lim_{ x \to a }} \, (f(x))^n = \left(\displaystyle{\lim_{ x \to a }} \, f(x)\right)^n$$
+
+Digamos que $a=5$ e $n=2$
+
+$$\displaystyle{\lim_{ x \to 5 }} \, (f(x))^2 = \left(\displaystyle{\lim_{ x \to 5 }} \, f(x)\right)^2 =\left(\displaystyle{\lim_{ x \to 5 }} \, x^2 + x\right)^2$$
+
+$$= (5^2 + 5)^2 = (25 + 5)^2 = 30^2 = 900$$
+
+### Limite de uma Raiz
+
+Dada a função:
+
+$f(x) = 2x$
+
+O limite de $\sqrt[n]{ f(x) }$ será:
+
+$$\displaystyle{\lim_{ x \to a }} \, \sqrt[n]{ f(x) } = \sqrt[n]{\displaystyle{\lim_{ x \to a }} \, f(x)}$$
+
+Digamos que $a=1$ e $n=2$
+
+$$\displaystyle{\lim_{ x \to 1 }} \, \sqrt[2]{ f(x) } = \sqrt[2]{\displaystyle{\lim_{ x \to 1 }} \, f(x)}$$
+$$=\sqrt[2]{\displaystyle{\lim_{ x \to 1 }} \, (2x)}$$
+$$=\sqrt[2]{\displaystyle{2 \cdot 1}} = \sqrt{ 2 }$$
+
+## Indeterminações
+
+Veja alguns exemplos de indeterminações matemáticas:
+
+- $\frac{0}{0}$
+- $\frac{\infty}{\infty}$
+- $\infty - \infty$
+- $\infty + \infty$
+- $0^0$
+- $\infty^0$
+- $1^\infty$
+
+Em algumas funções essas indeterminações podem ocorrer, como na função mencionada anteriormente:
+
+$f(x) = \dfrac{x^2 - 1}{x - 1}$
+
+Onde $f(1)$ é um indeterminação que resulta em $\frac{0}{0}$
+
+Mas nós descobrimos anteriormente que $f(1) = 2$, até mesmo o gráfico no Desmo mostra isso
+
+OK, então como resolvemos isso?
+
+Nesses casos é necessário realizarmos a "Fatoração" que se trata representa uma expressão ou número como um produto de fatores
+
+Por exemplo, em $(x^2 - 1)$ pode ser reescrito como $(x - 1) \cdot (x+1)$. Logo:
+
+$f(x) = \dfrac{(x - 1) \cdot (x + 1)}{x - 1}$
+
+Agora fica fácil, porque podemos cancelar o $(x-1)$ no numerador com o $(x-1)$ do denominador:
+
+$f(x) = \dfrac{\cancel{(x - 1)} \cdot (x + 1)}{\cancel{x - 1}}$
+
+$f(x) = x + 1$
+
+Então:
+
+$\displaystyle{\lim_{ x \to 1 } (x + 1)} = 1 + 1 = 2$
