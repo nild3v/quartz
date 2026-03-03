@@ -149,6 +149,7 @@ Não importa o valor de $a$, o limite sempre será a própria constante
 Dado as funções:
 
 $f(x) = x$
+
 $g(x) = 3$
 
 O limite de $f(x) + g(x)$ será:
@@ -193,6 +194,7 @@ $$= 3 + 1 + 3^2 = 13$$
 Dado as funções:
 
 $f(x) = x$
+
 $g(x) = 3$
 
 O limite de $f(x) \cdot g(x)$ será:
