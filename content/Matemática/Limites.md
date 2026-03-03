@@ -158,7 +158,9 @@ $$\displaystyle{\lim_{ x \to a }} \, (f(x) + g(x)) = \displaystyle{\lim_{ x \to 
 Digamos que $a=2$
 
 $$\displaystyle{\lim_{ x \to 2 }} \, (f(x) + g(x)) = \displaystyle{\lim_{ x \to 2 }} \, f(x) + \displaystyle{\lim_{ x \to 2 }} \, g(x)$$
+
 $$=\displaystyle{\lim_{ x \to 2 }} \, x + \displaystyle{\lim_{ x \to 2 }} \, 3$$$$= x + 3$$
+
 $$= 2 + 3 = 5$$
 
 ### Limite da Diferença
@@ -173,10 +175,13 @@ $g(x) = x^2$
 O limite de $f(x) - g(x)$ será:
 
 $$\displaystyle{\lim_{ x \to a }} \, (f(x) - g(x)) = \displaystyle{\lim_{ x \to a }} \, f(x) - \displaystyle{\lim_{ x \to a }} \, g(x)$$
+
 Digamos que $a=3$
 
 $$\displaystyle{\lim_{ x \to 3 }} \, (f(x) - g(x)) = \displaystyle{\lim_{ x \to 3 }} \, f(x) - \displaystyle{\lim_{ x \to 3 }} \, g(x)$$
+
 $$=\displaystyle{\lim_{ x \to 3 }} \, (x + 1) + \displaystyle{\lim_{ x \to 3 }} \, x ²$$$$= x + 1 + x^2$$
+
 $$= 3 + 1 + 3^2 = 13$$
 
 ### Limite do Produto
@@ -189,10 +194,13 @@ $g(x) = 3$
 O limite de $f(x) \cdot g(x)$ será:
 
 $$\displaystyle{\lim_{ x \to a }} \, (f(x) \cdot g(x)) = \displaystyle{\lim_{ x \to a }} \, f(x) \cdot \displaystyle{\lim_{ x \to a }} \, g(x)$$
+
 Digamos que $a=2$
 
 $$\displaystyle{\lim_{ x \to 2 }} \, (f(x) \cdot g(x)) = \displaystyle{\lim_{ x \to 2 }} \, f(x) \cdot \displaystyle{\lim_{ x \to 2 }} \, g(x)$$
+
 $$=\displaystyle{\lim_{ x \to 2 }} \, x \cdot \displaystyle{\lim_{ x \to 2 }} \, 3$$$$= x \cdot 3$$
+
 $$= 2 \cdot 3 = 6$$
 
 ### Limite do Quociente
@@ -210,8 +218,11 @@ Onde $M \ne 0$
 Digamos que $a=3$
 
 $$\displaystyle{\lim_{ x \to 3 }} \, \dfrac{f(x)}{g(x)} = \frac{\displaystyle{\lim_{ x \to 3 }} \, f(x)}{\displaystyle{\lim_{ x \to 3 }} \, g(x)}$$
+
 $$= \dfrac{\displaystyle{\lim_{ x \to 3 } (x+1)}}{\displaystyle{\lim_{ x \to 3 } x^2}}$$
+
 $$= \dfrac{x+1}{x^2}$$
+
 $$= \dfrac{3+1}{3^2} = \dfrac{4}{9}$$
 
 ### Limite da Potência
@@ -243,7 +254,9 @@ $$\displaystyle{\lim_{ x \to a }} \, \sqrt[n]{ f(x) } = \sqrt[n]{\displaystyle{\
 Digamos que $a=1$ e $n=2$
 
 $$\displaystyle{\lim_{ x \to 1 }} \, \sqrt[2]{ f(x) } = \sqrt[2]{\displaystyle{\lim_{ x \to 1 }} \, f(x)}$$
+
 $$=\sqrt[2]{\displaystyle{\lim_{ x \to 1 }} \, (2x)}$$
+
 $$=\sqrt[2]{\displaystyle{2 \cdot 1}} = \sqrt{ 2 }$$
 
 ## Indeterminações
