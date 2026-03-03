@@ -159,7 +159,9 @@ Digamos que $a=2$
 
 $$\displaystyle{\lim_{ x \to 2 }} \, (f(x) + g(x)) = \displaystyle{\lim_{ x \to 2 }} \, f(x) + \displaystyle{\lim_{ x \to 2 }} \, g(x)$$
 
-$$=\displaystyle{\lim_{ x \to 2 }} \, x + \displaystyle{\lim_{ x \to 2 }} \, 3$$$$= x + 3$$
+$$=\displaystyle{\lim_{ x \to 2 }} \, x + \displaystyle{\lim_{ x \to 2 }} \, 3$$
+
+$$= x + 3$$
 
 $$= 2 + 3 = 5$$
 
@@ -180,7 +182,9 @@ Digamos que $a=3$
 
 $$\displaystyle{\lim_{ x \to 3 }} \, (f(x) - g(x)) = \displaystyle{\lim_{ x \to 3 }} \, f(x) - \displaystyle{\lim_{ x \to 3 }} \, g(x)$$
 
-$$=\displaystyle{\lim_{ x \to 3 }} \, (x + 1) + \displaystyle{\lim_{ x \to 3 }} \, x ²$$$$= x + 1 + x^2$$
+$$=\displaystyle{\lim_{ x \to 3 }} \, (x + 1) + \displaystyle{\lim_{ x \to 3 }} \, x ²$$
+
+$$= x + 1 + x^2$$
 
 $$= 3 + 1 + 3^2 = 13$$
 
@@ -199,7 +203,9 @@ Digamos que $a=2$
 
 $$\displaystyle{\lim_{ x \to 2 }} \, (f(x) \cdot g(x)) = \displaystyle{\lim_{ x \to 2 }} \, f(x) \cdot \displaystyle{\lim_{ x \to 2 }} \, g(x)$$
 
-$$=\displaystyle{\lim_{ x \to 2 }} \, x \cdot \displaystyle{\lim_{ x \to 2 }} \, 3$$$$= x \cdot 3$$
+$$=\displaystyle{\lim_{ x \to 2 }} \, x \cdot \displaystyle{\lim_{ x \to 2 }} \, 3$$
+
+$$= x \cdot 3$$
 
 $$= 2 \cdot 3 = 6$$
 
