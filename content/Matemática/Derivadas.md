@@ -1,6 +1,6 @@
 ---
 date: 2026-03-02
-edit: 2026-03-02
+edit: 2026-03-03
 tags:
   - Matemática
 ---
@@ -131,7 +131,11 @@ $a = \dfrac{f (x_2) - f (x_1)}{x_2 - x_1}$
 
 ### Reta Tangente
 
-Nosso objetivo com as derivadas é encontrar a **Taxa de Variação** que é dada pelo próprio **Coeficiente Angular**
+Nosso objetivo com as derivadas é encontrar a **Taxa de Variação Instantânea** que é dada pelo próprio **Coeficiente Angular** da Reta Tangente
+
+A Reta Secante não seria útil nesse caso, porque ela cruza dois pontos e queremos saber o quanto a função varia em relação a uma variável quando fazemos um pequeno deslocamento nela
+
+Em funções afim podemos ter uma noção do que seria essa **Taxa de Variação**, mas nesse caso não é "instantânea"
 
 Por exemplo:
 
@@ -150,9 +154,7 @@ Veja:
 | 3   | 9               |
 | 4   | 11              |
 
-Certo, sabendo disso... por que precisamos de uma Reta Tangente? Bem, a reta tangente toca em um único ponto da curva e se sabermos o Coeficiente Angular ($a$) dessa reta, podemos saber a **Taxa de Variação** da função em relação a $x$ em qualquer ponto da curva
-
-Mas como teremos uma Reta Tangente se no gráfico apresentado há uma Reta Secante?
+Sabendo disso, como teremos uma Reta Tangente se no gráfico apresentado há uma Reta Secante?
 
 Muito fácil, usaremos limites. Inicialmente não podemos usar Retas Tangente, porque um "ponto" não possui dimensões, ou seja, seu tamanho é $0$
 
@@ -196,16 +198,16 @@ $f (x)=ax^{n} \to f'(x)=nax^{n-1}$
 
 ### Derivada do Produto
 
-$f(x) \cdot g(x) \to f'(x) \cdot g(x) + f(x) \cdot g'(x)$
+   $f(x) \cdot g(x) \to f'(x) \cdot g(x) + f(x) \cdot g'(x)$
 
 ### Derivada da Soma:
 
-$f(x) \pm g(x) \to f'(x) \pm g'(x)$
+   $f(x) \pm g(x) \to f'(x) \pm g'(x)$
 
 ### Derivada do Quociente:
 
-$\left(\dfrac{f(x)}{g(x)} \right) \to \dfrac{f'(x)\cdot g(x)-f(x)\cdot g(x)'}{[g(x)]^2}$ 
+   $\left(\dfrac{f(x)}{g(x)} \right) \to \dfrac{f'(x)\cdot g(x)-f(x)\cdot g(x)'}{[g(x)]^2}$ 
 
 ### Regra da Cadeia (Composta)
 
-$f (g(x)) \to f'(g(x)) \cdot g'(x)$
+   $f (g(x)) \to f'(g(x)) \cdot g'(x)$
