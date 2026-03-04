@@ -28,16 +28,16 @@ Se definirmos $x=1$, podemos diminuir esse valor gradualmente, como $x=0.5$, $x=
 
 Veja o gráfico da função:
 
-![Gráfico da Função | 300x300](fx_1-by-x.svg)
+![Gráfico da Função](fx_1-by-x.png)
 
 Perceba que a medida que $x$ se aproxima de $0$:
 
-- pela **direta**, o valor de $y$ cresce (+)
-- pela **esquerda**, o valor de $y$ diminui (-)
+- pela **direta**, o valor de $y$ cresce exponencialmente (+)
+- pela **esquerda**, o valor de $y$ diminui exponencialmente (-)
 
-Se aumentarmos o campo de visão do gráfico, observaremos que $y$ aumenta e diminui **infinitamente**:
+Veja:
 
-![Gráfico da Função Ampliado | 300x300](fx_1-by-x_zoomout.svg)
+![[fx_1-by-x_infinity.mp4]]
 
 Dessa forma, podemos dizer que:
 

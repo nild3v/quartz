@@ -1,8 +1,8 @@
 ---
 tags:
-  - Matemática
+  - machine_learning
+  - math
 date: 2026-02-26
-edit: 2026-02-26
 ---
 > [!info] Recursos
 > 

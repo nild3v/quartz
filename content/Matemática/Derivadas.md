@@ -26,7 +26,7 @@ Basicamente, a reta que mais se assemelha com a curva ao redor desse único pont
 
 Veja um exemplo abaixo:
 
-![Reta Tangente em uma Curva](tangent_line.svg)
+![Reta Tangente em uma Curva](tangent_line.png)
 
 A reta em vermelho é a reta tangente da curva em cinza
 
@@ -34,7 +34,7 @@ Se dermos um zoom suficientemente grande, veremos que ao redor desse único pont
 
 Veja:
 
-![Reta Tangente de uma Curva com Zoom](tangent_line_zoomin.png)
+![Reta Tangente de uma Curva com Zoom](tangent_line_zoomin.gif)
 
 ### Reta Secante
 
@@ -42,13 +42,13 @@ A **Reta Secante** é uma reta que cruza uma curva em pelo menos 2 pontos distin
 
 Veja abaixo:
 
-![Reta Secante em uma Curva](secant_line.svg)
+![Reta Secante em uma Curva](secant_line.png)
 
 ## Construção
 
 Agora que relembramos alguns conceitos, iremos desenvolver do zero o conceito de derivada. Primeiramente, observe o gráfico abaixo:
 
-![[derivative_01.svg]]
+![[derivative_01.png]]
 
 Nesse gráfico há dois pontos:
 
@@ -63,7 +63,7 @@ $f(x_1 + h)$ é a altura da linha tracejada em roxo, ou seja, o $y_2$
 
 OK, sabendo disso vamos para o próximo passo, vamos traçar uma reta que cruze esses dois pontos na curva:
 
-![[derivative_02.svg]]
+![[derivative_02.png]]
 
 Traçamos uma reta em laranja que cruza os dois pontos na curva
 
@@ -73,19 +73,19 @@ Observe bem, é possível traçar uma linha horizontal do ponto vermelho até a 
 
 Veja:
 
-![[derivative_03.svg]]
+![[derivative_03.png]]
 
-$x - (x+h)$ é a medida da base do triângulo retângulo
+$h$ é a medida da base do triângulo retângulo
 
-Se quisermos descobrir a altura desse triângulo retângulo, basta subtrair $f(x_1 + h) - f(x_1)$
+Se quisermos descobrir a altura desse triângulo retângulo, basta subtrair $f(x_1 + h) - f(x_1)$, ou seja, $y2 - y1$
 
 OK, você deve está se perguntando como isso vai nos retornar a derivada certo? Calma lá, que ainda falta só mais um detalhe
 
 Esse detalhe se chama "ângulo", saiba que essa reta possui um ângulo, vamos representá-lo no gráfico:
 
-![[derivative_04.svg]]
+![[derivative_04.png]]
 
-O $\theta$ é o ângulo do da reta secante em laranja
+O $\theta$ é o ângulo da reta secante em laranja
 
 Show! Agora vamos ao trabalho!
 
@@ -160,9 +160,11 @@ Muito fácil, usaremos limites. Inicialmente não podemos usar Retas Tangente, p
 
 Seria impossível calcular o Coeficiente Angular. Entretanto, se usarmos limites, podemos aproximar a Reta Secante a uma Reta Tangente se a distância entre os dois pontos que ela cruza tender a $0$
 
-Essa distância que me refiro é $h$, a base do Triângulo Retângulo
+Veja:
 
-Logo:
+![[secant_to_tangent.gif]]
+
+Perceba que $h$ está diminuindo muito. Tendo isso em mente, podemos definir a seguinte expressão:
 
 $f'(x) = \lim\limits_{h\rightarrow0} \dfrac{f(x+h)-f(x)}{h}$
 
