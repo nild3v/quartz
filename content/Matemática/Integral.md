@@ -36,13 +36,13 @@ Nesse caso basta calcular a área de cada figura e depois somar. Dessa forma ter
 
 Isso aqui ainda está um pouco fácil, vamos complicar:
 
-![[integral_01.svg]]
+![[integral_01.png]]
 
 Dessa vez a figura possui uma lado curvo e isso torna as coisas um pouco complexas, porque não é possível dividir a figura em polígonos menores que possa cobrir a área total da figura
 
 Veja:
 
-![[integral_02.svg]]
+![[integral_02.png]]
 
 Perceba que há pequenos pedaços de áreas que não estão cobertos e no máximo que poderíamos ter é uma aproximação dessa área. Além disso, a divisão deveria ser feita de uma forma que possamos identificar as medidas de cada polígono e não de maneira aleatória
 
@@ -52,7 +52,7 @@ Se analisarmos o lado curvo da figura, podemos dizer que ela é parte de uma gr�
 
 Vejamos:
 
-![[integral_03.svg]]
+![[integral_03.gif]]
 
 Esse seria o possível gráfico da função $f(x)$ que nos dar a curva da forma geométrica que estamos tentar achar a área
 
@@ -64,15 +64,13 @@ Então precisamos encontrar uma forma de achar essa área
 
 Bem, se soubermos a função $f(x)$ podemos determinar a altura do gráfico em qualquer ponto no intervalo $a \to b$
 
-Veja:
-
-![[integral_04.svg]]
+![[integral_04.gif]]
 
 Tendo isso em mãos, o que podemos fazer é estimar essa área
 
 Primeira, dividiremos o intervalo $a \to b$ em $n$ subintervalos
 
-![[integral_05.svg]]
+![[integral_05.gif]]
 
 Aqui dividimos o intervalo $a \to b$ em $10$ subintervalos iguais
 
@@ -82,7 +80,7 @@ $\Delta x = \dfrac{b - a}{n}$
 
 Agora iremos colocar um retângulo sobre cada subintervalo:
 
-![[integral_06.svg]]
+![[integral_06.gif]]
 
 Cada retângulo possuem as seguintes medidas:
 
@@ -92,7 +90,7 @@ Cada retângulo possuem as seguintes medidas:
 
 Veja:
 
-![[integral_07.svg]]
+![[integral_07.gif]]
 
 Portanto para calcularmos a área aproximada abaixo da curva podemos calcular a área de cada retângulo e depois somá-los
 
@@ -114,9 +112,9 @@ Entretanto, se aumentarmos $n$ o $\Delta x$ será ainda menor e dessa maneira a 
 
 Veja:
 
-![[integral_08.svg]]
+![[integral_08.gif]]
 
-Nesse caso o $a \to b$ foi divido em $17$ subintervalos
+Nesse caso o $a \to b$ foi divido em $40$ subintervalos
 
 Portanto quanto maior o $n$ melhor será estimativa da área. Então:
 
