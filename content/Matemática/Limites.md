@@ -37,7 +37,7 @@ Perceba que a medida que $x$ se aproxima de $0$:
 
 Veja:
 
-![[fx_1-by-x_infinity.mp4]]
+![[fx_1-by-x_infinity.gif]]
 
 Dessa forma, podemos dizer que:
 
@@ -52,7 +52,7 @@ $\displaystyle{\lim_{ x \to 0 }} \dfrac{1}{x} = -\infty$
 
 Infelizmente, nesse caso em específico, o limite $0$ não existe na função $f(x) = \dfrac{1}{x}$, porque se observamos a primeira imagem novamente:
 
-![Gráfico da Função|300x300](fx_1-by-x.svg)
+![Gráfico da Função](fx_1-by-x.png)
 
 Existe uma quebra no gráfico. Definimos que uma função só há limite em um ponto $a$ quando a aproximação é igual pelos dois lados (esquerda e direita)
 
@@ -98,7 +98,7 @@ Certo! Diferente da função do início, quando $x$ tende $1$ tanto pela **direi
 
 Veja o gráfico:
 
-![Gráfico da Função 2|300x300](fx_x2-1_x-1.svg)
+![Gráfico da Função 2](fx_x2-1_x-1.png)
 
 ## Fórmula
 
