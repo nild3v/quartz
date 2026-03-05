@@ -1,7 +1,8 @@
 ---
 tags:
-    - Matemática
-date: 2026-02-26
+  - Matemática
+added: 2026-02-26
+updated: 2026-02-26
 ---
 
 > [!info] Recursos

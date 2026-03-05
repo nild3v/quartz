@@ -1,8 +1,8 @@
 ---
 tags:
   - Matemática
-date: 2026-03-03
-edit: 2026-03-03
+added: 2026-03-03
+updated: 2026-03-03
 ---
 > [!info] Recursos
 > - [📹 O que é uma Integral? | Ponto Matemático](https://www.youtube.com/watch?v=rSKtCJsJKAg)
