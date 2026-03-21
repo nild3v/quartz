@@ -318,8 +318,8 @@ importers:
         specifier: catalog:build
         version: 1.31.1
       lucide:
-        specifier: ^0.577.0
-        version: 0.577.0
+        specifier: 0.542.0
+        version: 0.542.0
       mdast-util-find-and-replace:
         specifier: catalog:mdast
         version: 3.0.2
@@ -2280,8 +2280,8 @@ packages:
   longest-streak@3.1.0:
     resolution: {integrity: sha512-9Ri+o0JYgehTaVBBDoMqIl8GXtbWg711O3srftcHhZ0dqnETqLaoIK0x17fUw9rFSlK/0NlsKe0Ahhyl5pXE2g==}
 
-  lucide@0.577.0:
-    resolution: {integrity: sha512-PpC/m5eOItp/WU/GlQPFBXDOhq6HibL73KzYP37OX3LM7VmzWQF8voEj8QRWUFvy9FIKfeDQkWYoyS1D/MdWFA==}
+  lucide@0.542.0:
+    resolution: {integrity: sha512-+EtDSHjqg/nONgCfnjHCNd84OzbDjxR8ShnOf+oImlU+A8gqlptZ6pGrMCnhEDw8pVNQv3zu/L0eDvMzcc7nWA==}
 
   markdown-table@3.0.4:
     resolution: {integrity: sha512-wiYz4+JrLyb/DqW2hkFJxP7Vd7JuTDm77fvbM8VfEQdmSMqcImWeeRbHwZjBjIFki/VaMK2BhFi7oUUZeM5bqw==}
@@ -4636,7 +4636,7 @@ snapshots:
 
   longest-streak@3.1.0: {}
 
-  lucide@0.577.0: {}
+  lucide@0.542.0: {}
 
   markdown-table@3.0.4: {}
 

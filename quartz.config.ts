@@ -9,15 +9,15 @@ import * as Plugin from './quartz/plugins'
  */
 const config: QuartzConfig = {
     configuration: {
-        pageTitle: 'Quartz 4',
+        pageTitle: 'Yur1 Notes',
         pageTitleSuffix: '',
         enableSPA: true,
         enablePopovers: true,
         analytics: {
             provider: 'plausible'
         },
-        locale: 'en-US',
-        baseUrl: 'quartz.jzhao.xyz',
+        locale: 'pt-BR',
+        baseUrl: 'yur1-notes.netlify.app',
         ignorePatterns: ['private', 'templates', '.obsidian'],
         defaultDateType: 'modified',
         theme: {

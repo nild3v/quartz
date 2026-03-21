@@ -59,7 +59,7 @@
         "is-absolute-url": "catalog:",
         "js-yaml": "catalog:",
         "lightningcss": "catalog:build",
-        "lucide": "^0.577.0",
+        "lucide": "0.542.0",
         "mdast-util-find-and-replace": "catalog:mdast",
         "mdast-util-to-hast": "catalog:mdast",
         "mdast-util-to-string": "catalog:mdast",
