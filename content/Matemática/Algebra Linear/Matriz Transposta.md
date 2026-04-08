@@ -1,13 +1,14 @@
 ---
 tags:
   - Matemática
+  - Algebra_Linear
 added: 2026-03-17
 updated: 2026-03-17
 ---
 > [!info] Recursos
-> - [📹 The Matrix Transpose: Visual Intuition | Sam Levey](https://www.youtube.com/watch?v=wjYpzkQoyD8)
-> - [📚 Transpose | Wikipedia](https://en.wikipedia.org/wiki/Transpose)
-> - [📚 Transpose and Determinant| Brilliant](https://brilliant.org/wiki/matrices/#transpose-and-determinant)
+> - [🎥 The Matrix Transpose: Visual Intuition | Sam Levey](https://www.youtube.com/watch?v=wjYpzkQoyD8)
+> - [📄 Transpose | Wikipedia](https://en.wikipedia.org/wiki/Transpose)
+> - [📄 Transpose and Determinant| Brilliant](https://brilliant.org/wiki/matrices/#transpose-and-determinant)
 
 ## Introdução
 

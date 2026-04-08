@@ -4,12 +4,11 @@ tags:
 added: 2026-02-26
 updated: 2026-02-26
 ---
-
 > [!info] Recursos
 >
-> - [📚 Introdução às Derivadas Parciais | Khan Academy](https://pt.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives)
-> - [📹 Difference Between Partial and Total Derivative | Alexander](https://www.youtube.com/watch?v=Kp7sSp5Kn7o)
-> - [📹 Learn Partial Derivatives In 2 Minutes | BriTheMathGuy](https://www.youtube.com/watch?v=xnhz1Ngr4w8)
+> - [📄 Introdução às Derivadas Parciais | Khan Academy](https://pt.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives)
+> - [🎥 Difference Between Partial and Total Derivative | Alexander](https://www.youtube.com/watch?v=Kp7sSp5Kn7o)
+> - [🎥 Learn Partial Derivatives In 2 Minutes | BriTheMathGuy](https://www.youtube.com/watch?v=xnhz1Ngr4w8)
 
 Derivada Parcial é o processo de derivar uma função em uma relação a uma variável enquanto as demais são consideradas como constantes. Por isso do nome "Parcial"
 

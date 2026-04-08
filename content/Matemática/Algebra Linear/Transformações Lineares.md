@@ -1,12 +1,13 @@
 ---
 tags:
   - Matemática
+  - Algebra_Linear
 added: 2026-03-07
 updated: 2026-03-07
 ---
 > [!info] Recursos
-> - [📚 Linear Transformation | Brilliant](https://brilliant.org/wiki/linear-transformations/#types-of-linear-transformations)
-> - [📹 Linear transformations and matrices | 3Blue1Brown](https://www.youtube.com/watch?v=kYB8IZa5AuE)
+> - [📄 Linear Transformation | Brilliant](https://brilliant.org/wiki/linear-transformations/#types-of-linear-transformations)
+> - [🎥 Linear transformations and matrices | 3Blue1Brown](https://www.youtube.com/watch?v=kYB8IZa5AuE)
 
 ## Introdução
 

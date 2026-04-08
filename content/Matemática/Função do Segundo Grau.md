@@ -5,9 +5,9 @@ added: 2026-03-11
 updated: 2026-03-11
 ---
 > [!info] Recursos
-> - [📹 Função do Segundo Grau | Ponto Matemático](https://www.youtube.com/watch?v=djXO6Lyc2NA)
-> - [📹 Como solucionar qualquer equação do segundo grau | Ponto Matemático](https://www.youtube.com/watch?v=5Ncg_3Lr46o)
-> - [📹 De Onde Vem A Fórmula De Bhaskara? | Principia Matemática](https://www.youtube.com/watch?v=8gfViwFWSgY)
+> - [🎥 Função do Segundo Grau | Ponto Matemático](https://www.youtube.com/watch?v=djXO6Lyc2NA)
+> - [🎥 Como solucionar qualquer equação do segundo grau | Ponto Matemático](https://www.youtube.com/watch?v=5Ncg_3Lr46o)
+> - [🎥 De Onde Vem A Fórmula De Bhaskara? | Principia Matemática](https://www.youtube.com/watch?v=8gfViwFWSgY)
 
 ## Introdução
 
@@ -71,7 +71,7 @@ Veja algumas animações mostrando como cada coeficiente influência o gráfico 
 
 As raízes da função quadrática são os pontos que a parábola toca ou cruza o eixo $x$
 
-As raízes ou zeros da função são encontrados pela fórmula Bhaskara:
+As raízes ou zeros da função são encontrados pela fórmula de **Bhaskara**:
 
 $x_1 = \dfrac{-b + \sqrt{ \Delta }}{2a}$ 
 

@@ -1,14 +1,15 @@
 ---
 tags:
   - Tecnologia
+  - Rede_Neural
 added: 2026-03-09
-updated: 2026-03-09
+updated: 2026-04-08
 ---
 > [!info] Recursos
-> - [📹 But what is a neural network? | 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-> - [📚 What is a neural network | IBM](https://www.ibm.com/think/topics/neural-networks)
-> - [📹 Why Neural Networks can learn (almost) anything | Emergent Garden](https://www.youtube.com/watch?v=0QczhVg5HaI)
-> - [📹 Visualizing Neural Network Training and Predictions | Tushar Gautam](https://www.youtube.com/watch?v=xg4bIeJTVF0)
+> - [🎥 But what is a neural network? | 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+> - [📄 What is a neural network | IBM](https://www.ibm.com/think/topics/neural-networks)
+> - [🎥 Why Neural Networks can learn (almost) anything | Emergent Garden](https://www.youtube.com/watch?v=0QczhVg5HaI)
+> - [🎥 Visualizing Neural Network Training and Predictions | Tushar Gautam](https://www.youtube.com/watch?v=xg4bIeJTVF0)
 
 Uma Rede Neural Artificial (ANN) é um modelo de Machine Learning que é constituído em camadas de 3 tipos diferentes:
 

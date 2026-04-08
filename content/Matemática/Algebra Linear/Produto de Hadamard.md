@@ -1,11 +1,12 @@
 ---
 tags:
   - Matemática
+  - Algebra_Linear
 added: 2026-03-18
 updated: 2026-03-18
 ---
 > [!info] Recursos
-> - [📚 Hadamard Product | Wikipedia](https://en.wikipedia.org/wiki/Hadamard_product_(matrices))
+> - [📄 Hadamard Product | Wikipedia](https://en.wikipedia.org/wiki/Hadamard_product_(matrices))
 
 ## Introdução
 

@@ -5,7 +5,7 @@ added: 2026-03-11
 updated: 2026-03-11
 ---
 > [!info] Recursos
-> - [📹 Função Constante | Matemático no Papel](https://www.youtube.com/watch?v=_CxXGuC65_I)
+> - [🎥 Função Constante | Matemático no Papel](https://www.youtube.com/watch?v=_CxXGuC65_I)
 
 ## Introdução
 

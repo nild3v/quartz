@@ -1,8 +1,9 @@
 ---
 tags:
   - Tecnologia
+  - Segurança_da_Informação
 added: 2026-03-10
-updated: 2026-03-10
+updated: 2026-04-08
 ---
 ## Identidade Offline
 

@@ -1,11 +1,12 @@
 ---
 tags:
   - Tecnologia
+  - Machine_Learning
 added: 2026-03-18
-updated: 2026-03-18
+updated: 2026-04-08
 ---
 > [!info] Recursos
-> - [📚 Broadcasting | Numpy](https://numpy.org/doc/stable/user/basics.broadcasting.html#broadcastable-arrays)
+> - [📄 Broadcasting | Numpy](https://numpy.org/doc/stable/user/basics.broadcasting.html#broadcastable-arrays)
 
 ## Introdução
 
@@ -45,7 +46,6 @@ Não há o muito o que fazer aqui, porque se replicarmos o vetor para criar uma 
 $\begin{bmatrix}1 & 2\end{bmatrix} \to \begin{bmatrix}1 & 2 \\ 1 & 2 \\ 1 & 2  \end{bmatrix}$
 
 Ainda faltará uma coluna e a soma entre ambas as matrizes não será possível
-
 
 [Acesse a documentação do NumPy para saber mais](https://numpy.org/doc/stable/user/basics.broadcasting.html#general-broadcasting-rules)
 

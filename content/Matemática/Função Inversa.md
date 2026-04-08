@@ -4,10 +4,9 @@ tags:
 added: 2026-03-11
 updated: 2026-03-11
 ---
-
 > [!info] Recursos
 >
-> - [📹 Função Inversa | Ponto Matemático](https://www.youtube.com/watch?v=GfQosZSTXUs)
+> - [🎥 Função Inversa | Ponto Matemático](https://www.youtube.com/watch?v=GfQosZSTXUs)
 
 ## Introdução
 

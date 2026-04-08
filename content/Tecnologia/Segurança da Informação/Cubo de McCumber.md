@@ -1,13 +1,14 @@
 ---
 tags:
   - Tecnologia
+  - Segurança_da_Informação
 added: 2026-03-10
-updated: 2026-03-10
+updated: 2026-04-08
 ---
 > [!info] Recursos
-> - [📚 Article Citations | Scientific Research](https://www.scirp.org/reference/referencespapers?referenceid=2070132)
-> - [📚 Information System Security: Requirements & Practives](https://csrc.nist.gov/files/pubs/conference/1991/10/01/proceedings-14th-national-computer-security-confer/final/docs/1991-14th-ncsc-proceedings-vol-1.pdf)
-> - [📚 CIA Triad | Fortinet](https://www.fortinet.com/uk/resources/cyberglossary/cia-triad)
+> - [📄 Article Citations | Scientific Research](https://www.scirp.org/reference/referencespapers?referenceid=2070132)
+> - [📄 Information System Security: Requirements & Practives](https://csrc.nist.gov/files/pubs/conference/1991/10/01/proceedings-14th-national-computer-security-confer/final/docs/1991-14th-ncsc-proceedings-vol-1.pdf)
+> - [📄 CIA Triad | Fortinet](https://www.fortinet.com/uk/resources/cyberglossary/cia-triad)
 
 ## Introdução
 

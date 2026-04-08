@@ -5,13 +5,13 @@ added: 2026-03-02
 updated: 2026-03-03
 ---
 > [!info] Recursos
-> - [📹 O que é Derivada | Ponto Matemático](https://www.youtube.com/watch?v=BzMDWLJVDaA)
-> - [📹 O que é Derivada? | Professor Julio Lombaldo](https://www.youtube.com/watch?v=4kjaMznGUnY)
-> - [📹 DERIVADAS - CÁLCULO 1 | Estude Matemática](https://www.youtube.com/watch?v=kYIc8JUx3Xo)
+> - [🎥 O que é Derivada | Ponto Matemático](https://www.youtube.com/watch?v=BzMDWLJVDaA)
+> - [🎥 O que é Derivada? | Professor Julio Lombaldo](https://www.youtube.com/watch?v=4kjaMznGUnY)
+> - [🎥 DERIVADAS - CÁLCULO 1 | Estude Matemática](https://www.youtube.com/watch?v=kYIc8JUx3Xo)
 > - [📚 Derivadas - Cálculo 1 | OpenStax](https://openstax.org/books/calculus-volume-1/pages/3-introduction)
 > - [📚 Derivada - Pré Cálculo | OpenStax](https://openstax.org/books/precalculus-2e/pages/12-4-derivatives)
-> - [📹 The Chain Rule | StatQuest with Josh Starmer](https://www.youtube.com/watch?v=wl1myxrtQHQ)
-> - [📹 Derivadas | Equaciona com Paulo Pereira](https://www.youtube.com/watch?v=cWBEMN75IMc&list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC&index=17)
+> - [🎥 The Chain Rule | StatQuest with Josh Starmer](https://www.youtube.com/watch?v=wl1myxrtQHQ)
+> - [🎥 Derivadas | Equaciona com Paulo Pereira](https://www.youtube.com/watch?v=cWBEMN75IMc&list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC&index=17)
 
 
 ## Introdução

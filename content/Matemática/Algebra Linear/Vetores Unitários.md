@@ -1,13 +1,14 @@
 ---
 tags:
   - Matemática
+  - Algebra_Linear
 added: 2026-03-16
 updated: 2026-03-16
 ---
 > [!info] Recursos
-> - [📚 Vetor Unitário | Brilliant](https://brilliant.org/wiki/unit-vectors/)
-> - [📚 Vetor Unitário | Wikipedia](https://pt.wikipedia.org/wiki/Vetor_unit%C3%A1rio)
-> - [📹 How To Find The Unit Vector | The Organic Chemistry Tutor](https://www.youtube.com/watch?v=f5DHYCKyVRo)
+> - [📄 Vetor Unitário | Brilliant](https://brilliant.org/wiki/unit-vectors/)
+> - [📄 Vetor Unitário | Wikipedia](https://pt.wikipedia.org/wiki/Vetor_unit%C3%A1rio)
+> - [🎥 How To Find The Unit Vector | The Organic Chemistry Tutor](https://www.youtube.com/watch?v=f5DHYCKyVRo)
 
 ## Introdução
 

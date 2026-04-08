@@ -1,11 +1,12 @@
 ---
 tags:
   - Tecnologia
+  - Segurança_da_Informação
 added: 2026-03-10
-updated: 2026-03-10
+updated: 2026-04-08
 ---
 > [!info] Recursos
-> - [📚 O que são Dados Pessoais? | Gov.br](https://www.gov.br/anpd/pt-br/acesso-a-informacao/perguntas-frequentes/perguntas-frequentes/2-dados-pessoais/2-1-o-que-sao)
+> - [📄 O que são Dados Pessoais? | Gov.br](https://www.gov.br/anpd/pt-br/acesso-a-informacao/perguntas-frequentes/perguntas-frequentes/2-dados-pessoais/2-1-o-que-sao)
 
 Dados Pessoais são quaisquer informações que possam ser usadas para identificar um indivíduo diretamente, como nome, CPF, RG, etc., ou indiretamente, como hábitos, personalidade, naturalidade, profissão, etc.
 

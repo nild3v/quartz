@@ -1,13 +1,14 @@
 ---
 tags:
   - Tecnologia
+  - Segurança_da_Informação
 added: 2026-03-14
-updated: 2026-03-14
+updated: 2026-04-08
 ---
 > [!info] Recursos
-> - [📚 O que é Engenharia Social? | IBM](https://www.ibm.com/br-pt/think/topics/social-engineering)
-> - [📚 O que é tailgating? | McAfee](https://www.mcafee.com/blogs/internet-security/what-are-tailgating-attacks/)
-> - [📚 Definição de Pretexting | Fortinet](https://www.fortinet.com/resources/cyberglossary/pretexting)
+> - [📄 O que é Engenharia Social? | IBM](https://www.ibm.com/br-pt/think/topics/social-engineering)
+> - [📄 O que é tailgating? | McAfee](https://www.mcafee.com/blogs/internet-security/what-are-tailgating-attacks/)
+> - [📄 Definição de Pretexting | Fortinet](https://www.fortinet.com/resources/cyberglossary/pretexting)
 
 ## Introdução
 

@@ -7,9 +7,9 @@ updated: 2026-03-02
 
 > [!info] Recursos
 >
-> - [📹 O que é um Limite | Ponto Matemático](https://www.youtube.com/watch?v=nNmYF74Bh3w)
-> - [📹 Limites | Matemático no Papel](https://youtube.com/playlist?list=PL-LPJn0YTIEGfXwn9F-0uW4ck2T_-1sQs&si=I_5zDx2iiLOS2nfa)
-> - [📚 Limits | Math is Fun](https://www.mathsisfun.com/calculus/limits.html)
+> - [🎥 O que é um Limite | Ponto Matemático](https://www.youtube.com/watch?v=nNmYF74Bh3w)
+> - [🎥 Limites | Matemático no Papel](https://youtube.com/playlist?list=PL-LPJn0YTIEGfXwn9F-0uW4ck2T_-1sQs&si=I_5zDx2iiLOS2nfa)
+> - [📄 Limits | Math is Fun](https://www.mathsisfun.com/calculus/limits.html)
 > - [📚 Limits | OpenStax](https://openstax.org/books/calculus-volume-1/pages/2-introduction)
 
 ## Introdução

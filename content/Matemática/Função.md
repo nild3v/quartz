@@ -6,10 +6,10 @@ updated: 2026-03-11
 ---
 > [!info] Recursos
 >
-> - [📹 O que é uma Função? | Principia Matemática](https://www.youtube.com/watch?v=6OkI2V-kUo4)
-> - [📹 Todas as Funções Explicadas em um Vídeo | Principia Matemática](https://www.youtube.com/watch?v=hIc5y6IXi-4)
-> - [📹 Classificação de Funções | Ponto Matemático](https://www.youtube.com/watch?v=I-JGQJU6S6Y)
-> - [📹 O que é Função | Ponto Matemático](https://www.youtube.com/watch?v=AOwjBs8u0Tk)
+> - [🎥 O que é uma Função? | Principia Matemática](https://www.youtube.com/watch?v=6OkI2V-kUo4)
+> - [🎥 Todas as Funções Explicadas em um Vídeo | Principia Matemática](https://www.youtube.com/watch?v=hIc5y6IXi-4)
+> - [🎥 Classificação de Funções | Ponto Matemático](https://www.youtube.com/watch?v=I-JGQJU6S6Y)
+> - [🎥 O que é Função | Ponto Matemático](https://www.youtube.com/watch?v=AOwjBs8u0Tk)
 
 ## Introdução
 

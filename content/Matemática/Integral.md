@@ -5,9 +5,9 @@ added: 2026-03-03
 updated: 2026-03-03
 ---
 > [!info] Recursos
-> - [📹 O que é uma Integral? | Ponto Matemático](https://www.youtube.com/watch?v=rSKtCJsJKAg)
-> - [📹 Técnicas de Integração | Ficou Mais Fácil](https://www.youtube.com/playlist?list=PLfWdOFF4w26rlDKapbr0Hwzr5YDWlX-SS)
-> - [📹 Cálculo de Integral Simplificado | Coruja de Minerva](https://www.youtube.com/watch?v=SEi9r9A1CFw)
+> - [🎥 O que é uma Integral? | Ponto Matemático](https://www.youtube.com/watch?v=rSKtCJsJKAg)
+> - [🎥 Técnicas de Integração | Ficou Mais Fácil](https://www.youtube.com/playlist?list=PLfWdOFF4w26rlDKapbr0Hwzr5YDWlX-SS)
+> - [🎥 Cálculo de Integral Simplificado | Coruja de Minerva](https://www.youtube.com/watch?v=SEi9r9A1CFw)
 
 ## Introdução
 

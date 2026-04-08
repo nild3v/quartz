@@ -5,7 +5,7 @@ added: 2026-03-11
 updated: 2026-03-11
 ---
 > [!info] Recursos
-> - [📹 Plano Cartesiano | Marcos Aba](https://www.youtube.com/watch?v=00jYGdYKFls)
+> - [🎥 Plano Cartesiano | Marcos Aba](https://www.youtube.com/watch?v=00jYGdYKFls)
 
 ## Introdução
 
@@ -29,3 +29,9 @@ Veja:
 
 ![[cartesian_plane_quadrants.png]]
 
+
+Por ser um plano de coordenadas, é possível determinar a posição ou a localização de pontos dispersos no espaço
+
+Veja:
+
+![[cartesian_plane_dots.png]]

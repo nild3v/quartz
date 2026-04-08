@@ -1,11 +1,12 @@
 ---
 tags:
   - Tecnologia
+  - Rede_Neural
 added: 2026-03-09
-updated: 2026-03-09
+updated: 2026-04-08
 ---
 > [!info] Recursos
-> - [📚 Universal approximation theorem - The intuition | Shivam Mehta](https://shivammehta25.github.io/posts/universal-approximation-theory-the-intuition/)
+> - [📄 Universal approximation theorem - The intuition | Shivam Mehta](https://shivammehta25.github.io/posts/universal-approximation-theory-the-intuition/)
 
 ## Introdução (Em Construção)
 

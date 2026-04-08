@@ -1,15 +1,16 @@
 ---
 tags:
   - Matemática
+  - Algebra_Linear
 added: 2026-03-16
 updated: 2026-03-16
 ---
 > [!info] Recursos
-> - [📹 All the Intuition Behind Matrices in 5 Minutes | MathExplained](https://www.youtube.com/watch?v=jONjuNWTPwM)
-> - [📹 Linear transformations and matrices | 3Blue1Brown](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3)
-> - [📹 Matrix multiplication as composition | 3Blue1Brown](https://www.youtube.com/watch?v=XkY2DOUCWMU&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=5)
-> - [📹 Change of basis | 3Blue1Brown](https://www.youtube.com/watch?v=P2LTAUO1TdA)
-> - [📚 Linear Transformations and Matrices | 3Blue1Brown](https://www.3blue1brown.com/lessons/linear-transformations)
+> - [🎥 All the Intuition Behind Matrices in 5 Minutes | MathExplained](https://www.youtube.com/watch?v=jONjuNWTPwM)
+> - [🎥 Linear transformations and matrices | 3Blue1Brown](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3)
+> - [🎥 Matrix multiplication as composition | 3Blue1Brown](https://www.youtube.com/watch?v=XkY2DOUCWMU&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=5)
+> - [🎥 Change of basis | 3Blue1Brown](https://www.youtube.com/watch?v=P2LTAUO1TdA)
+> - [📄 Linear Transformations and Matrices | 3Blue1Brown](https://www.3blue1brown.com/lessons/linear-transformations)
 
 **Recomendo bastante que veja os vídeos e os sites acima ☝️**
 

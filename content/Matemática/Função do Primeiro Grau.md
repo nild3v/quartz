@@ -5,7 +5,7 @@ created: 2026-03-11
 edited: 2026-03-11
 ---
 > [!info] Recursos
-> - [📹 Função do Primeiro Grau | Ponto Matemático](https://www.youtube.com/watch?v=ekk2nORywA4)
+> - [🎥 Função do Primeiro Grau | Ponto Matemático](https://www.youtube.com/watch?v=ekk2nORywA4)
 
 ## Introdução
 

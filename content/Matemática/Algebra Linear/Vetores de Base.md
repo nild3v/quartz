@@ -1,13 +1,14 @@
 ---
 tags:
   - Matemática
+  - Algebra_Linear
 added: 2026-03-16
 updated: 2026-03-16
 ---
 > [!info] Recursos
-> - [📹 Linear combinations, span, and basis vectors | 3Blue1Brown](https://www.youtube.com/watch?v=k7RM-ot2NWY)
-> - [📚 Basis | Brilliant](https://brilliant.org/wiki/bases/)
-> - [📚 Basis | Wikipedia](https://en.wikipedia.org/wiki/Basis_(linear_algebra))
+> - [🎥 Linear combinations, span, and basis vectors | 3Blue1Brown](https://www.youtube.com/watch?v=k7RM-ot2NWY)
+> - [📄 Basis | Brilliant](https://brilliant.org/wiki/bases/)
+> - [📄 Basis | Wikipedia](https://en.wikipedia.org/wiki/Basis_(linear_algebra))
 
 ## Introdução
 

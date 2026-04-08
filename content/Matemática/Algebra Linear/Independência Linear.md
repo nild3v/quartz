@@ -1,11 +1,12 @@
 ---
 tags:
   - Matemática
+  - Algebra_Linear
 added: 2026-03-18
 updated: 2026-03-18
 ---
 > [!info]
-> - [📚 Linear Independence | Wikipedia](https://en.wikipedia.org/wiki/Linear_independence)
+> - [📄 Linear Independence | Wikipedia](https://en.wikipedia.org/wiki/Linear_independence)
 
 ## Introdução
 

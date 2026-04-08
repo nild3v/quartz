@@ -10,3 +10,5 @@ private/
 .replit
 replit.nix
 .pnpm-store/
+content/Excalidraw/
+content/Galeria/**/*.md

@@ -6,7 +6,7 @@ updated: 2026-03-09
 ---
 > [!info] Recursos
 > 
-> - [📹 Gradient | Khan Academy](https://www.youtube.com/watch?v=tIpKfDc295M)
+> - [🎥 Gradient | Khan Academy](https://www.youtube.com/watch?v=tIpKfDc295M)
 
 ## Introdução
 

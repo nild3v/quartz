@@ -1,11 +1,12 @@
 ---
 tags:
   - Matemática
+  - Algebra_Linear
 added: 2026-03-07
 updated: 2026-03-07
 ---
 > [!info] Recursos
-> - [📚 Matrices | Brilliant](https://brilliant.org/wiki/matrices/)
+> - [📄 Matrices | Brilliant](https://brilliant.org/wiki/matrices/)
 > - [📚 Matrices and Matrix Operations | OpenStax](https://openstax.org/books/college-algebra-2e/pages/7-5-matrices-and-matrix-operations)
 
 ## Introdução

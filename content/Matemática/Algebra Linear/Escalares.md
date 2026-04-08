@@ -1,12 +1,13 @@
 ---
 tags:
   - Matemática
+  - Algebra_Linear
 added: 2026-03-05
 updated: 2026-03-05
 ---
 > [!info] Recursos
 > - [📚 Deep Learning Book | MIT Press](https://www.deeplearningbook.org/contents/linear_algebra.html)
-> - [📚 Scalar and Vectors | Math is Fun](https://www.mathsisfun.com/algebra/scalar-vector-matrix.html)
+> - [📄 Scalar and Vectors | Math is Fun](https://www.mathsisfun.com/algebra/scalar-vector-matrix.html)
 
 ## Introdução
 

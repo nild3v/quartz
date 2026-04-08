@@ -1,12 +1,13 @@
 ---
 tags:
   - Tecnologia
+  - Cibersegurança
 added: 2026-03-14
-updated: 2026-03-14
+updated: 2026-04-08
 ---
 > [!info] Recursos
-> - [📚 What Is a Hacker? | McAfee](https://www.mcafee.com/learn/what-is-a-hacker/)
-> - [📚 Chapéu branco, chapéu preto, hackers de chapéu cinza: Qual é a diferença? | MalwareBytes](https://www.malwarebytes.com/blog/news/2021/06/white-hat-black-hat-grey-hat-hackers-whats-the-difference)
+> - [📄 What Is a Hacker? | McAfee](https://www.mcafee.com/learn/what-is-a-hacker/)
+> - [📄 Chapéu branco, chapéu preto, hackers de chapéu cinza: Qual é a diferença? | MalwareBytes](https://www.malwarebytes.com/blog/news/2021/06/white-hat-black-hat-grey-hat-hackers-whats-the-difference)
 
 ## Introdução
 

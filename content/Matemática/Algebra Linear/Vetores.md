@@ -1,15 +1,17 @@
 ---
 tags:
   - Matemática
+  - Algebra_Linear
 added: 2026-03-05
-updated: 2026-03-05
+updated: 2026-04-07
 ---
 > [!info] Recursos
-> - [📹 Vectors | 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs)
-> - [📹 Dot Product | 3Blue1Brown](https://www.youtube.com/watch?v=LyGKycYT2v0)
-> - [📹 Cross Product | 3Blue1Brown](https://www.youtube.com/watch?v=eu6i7WJeinw)
+> - [🎥 Vectors | 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs)
+> - [🎥 Dot Product | 3Blue1Brown](https://www.youtube.com/watch?v=LyGKycYT2v0)
+> - [🎥 Cross Product | 3Blue1Brown](https://www.youtube.com/watch?v=eu6i7WJeinw)
 > - [📚 Vectors in the Plane | OpenStax](https://openstax.org/books/calculus-volume-3/pages/2-introduction)
 > - [🗣️ Why do vectors in maths start from origin? A possible explanation | Reddit](https://www.reddit.com/r/3Blue1Brown/comments/18fsmd0/why_do_vectors_in_maths_start_from_origin_a/)
+> - [📄 Euclidean Vector | Wikipedia](https://en.wikipedia.org/wiki/Euclidean_vector#Decomposition)
 
 ## Introdução
 
@@ -18,7 +20,6 @@ Um vetor possui ideias distintas, mas relacionadas dependendo da área de estudo
 ## Vetores na Matemática
 
 É um objeto matemático que possui duas propriedades, **direção** e **magnitude**, é representado como uma seta que aponta no espaço. Além disso, não está vinculada a nenhuma grandeza
-
 Permite operar com escalares e outros vetores, como a soma entre vetores e o produto por escalar
 
 ![[vector_math.png]]
@@ -63,9 +64,11 @@ Em um plano de coordenadas 3D, as coordenadas de um vetor é dado por um trio nu
 
 O trio de coordenadas também pode ser reescrito como uma tupla: $(2, 5, 3)$
 
-## Componentes
+## Decomposição Vetorial
 
-Um vetor pode ser dividido em sub vetores que estejam alinhados em seus respectivos eixos que quando somados resultam o vetor original
+### Introdução Básica
+
+Um vetor pode ser dividido em sub vetores que estejam alinhados em seus respectivos **eixos** que quando somados resultam o vetor original
 
 Observe o vetor abaixo:
 
@@ -73,23 +76,24 @@ Observe o vetor abaixo:
 
 Perceba que o vetor aponta em duas direções que são para direita ($+x$) e para cima ($+y$)
 
-Dessa forma, poderíamos dividir esse vetor em 2 sub vetores, no qual haverá um alinhado com o eixo $x$ e outro com o eixo $y$, ambos possuindo a mesma magnitude do vetor original de acordo com seu respectivo eixo
+Dessa forma, poderíamos dividir esse vetor em 2 sub vetores, no qual haverá um alinhado com o eixo $x$ e outro com o eixo $y$, ambos possuindo a mesma magnitude do vetor original de acordo com seu respectivo **eixo**
 
 Veja:
 
 ![[vector_comp_02.png]]
 
-O vetor em vermelho e o vetor em azul são as componentes do vetor em amarelo, sendo denotado da seguinte forma:
+O vetor em vermelho e o vetor em azul são o que chamamos de **componentes do vetor** em amarelo, sendo denotado da seguinte forma:
 
 $\vec{v} = \vec{v_{x}} + \vec{v_{y}}$
 
-O mesmo se aplica quando trabalhamos com vetores tridimensionais:
+O mesmo se aplica quando trabalhamos com vetores tridimensionais, mas ao invés de 2 componentes, haverão 3:
 
 ![[vector_comp_03.png]]
+Sendo denotado como:
 
 $\vec{v} = \vec{v_{x}} + \vec{v_{y}} + \vec{v_{z}}$
 
-### Cálculo
+#### Como encontrar as componentes de um Vetor?
 
 Nos exemplos anteriores as componentes poderiam ser definidas facilmente por causa das coordenadas, mas como poderíamos calculá-las sem o uso delas?
 
@@ -140,7 +144,9 @@ $\sin(\theta) \cdot H = \dfrac{CO}{\cancel{H}} \cdot \cancel{H}$
 $\sin(\theta) \cdot H = CO$ 👈
 
 Pronto! Dessa forma conseguimos calcular os valores escales dos vetores 
-$\vec{v}_{x}$ e $\vec{v}_{y}$. Então a partir desses valores podemos definir as coordenadas deles também, porque esses vetores são alinhados a um único eixo, logo, as demais coordenadas são $0$
+$\vec{v}_{x}$ e $\vec{v}_{y}$
+
+Então a partir desses valores podemos definir as coordenadas deles também, porque esses vetores são alinhados a um único eixo, logo, as demais coordenadas são $0$
 
 Logo:
 
@@ -149,6 +155,8 @@ $\vec{v}_{x} = \begin{bmatrix} \cos(\theta) \cdot H \\ 0 \end{bmatrix}$
 $\vec{v}_{y} = \begin{bmatrix} 0 \\ \sin(\theta) \cdot H \end{bmatrix}$
 
 $\vec{v} = \vec{v}_{x} + \vec{v}_{y} = \begin{bmatrix} \cos(\theta) \cdot H \\ \sin(\theta) \cdot H \end{bmatrix}$
+
+Nesse caso só poderíamos determinar as componentes do vetor se soubéssemos duas informações importantes: **o comprimento e o ângulo do vetor**
 
 ## Operações
 
@@ -262,7 +270,7 @@ $\vec{v} \cdot \vec{w} = v_{x} \cdot w_{x} + v_{y} \cdot w_{y}$
 
 Mas essa é a forma algébrica. Ainda existe a forma geométrica, que é definida como:
 
-$\vec{v} \cdot \vec{w} = |v| \cdot |w| \cdot \cos(\theta)$
+$\vec{v} \cdot \vec{w} = |\vec{v}| \cdot |\vec{w}| \cdot \cos(\theta)$
 
 Veja uma demonstração de como o produto escalar acontece graficamente:
 
@@ -284,13 +292,13 @@ Veja:
 
 Aplicando isso na fórmula:
 
-$\vec{v} \cdot \vec{w} = |v| \cdot |w| \cdot \cos(\theta)$
+$\vec{v} \cdot \vec{w} = |\vec{v}| \cdot |\vec{w}| \cdot \cos(\theta)$
 
-$\vec{v} \cdot \vec{w} = |v| \cdot |w| \cdot \cos(0 \degree)$
+$\vec{v} \cdot \vec{w} = |\vec{v}| \cdot |\vec{w}| \cdot \cos(0 \degree)$
 
-$\vec{v} \cdot \vec{w} = |v| \cdot |w| \cdot 1$
+$\vec{v} \cdot \vec{w} = |\vec{v}| \cdot |\vec{w}| \cdot 1$
 
-$\vec{v} \cdot \vec{w} = |v| \cdot |w|$ 👈
+$\vec{v} \cdot \vec{w} = |\vec{v}| \cdot |\vec{w}|$ 👈
 
 Se o ângulo entre os vetores for $180 \degree$, significa que ambos apontam em direções opostas, logo, o produto escalar é negativo
 
@@ -298,13 +306,13 @@ Veja:
 
 ![[vector_dot_prod_03.png]]
 
-$\vec{v} \cdot \vec{w} = |v| \cdot |w| \cdot \cos(\theta)$
+$\vec{v} \cdot \vec{w} = |\vec{v}| \cdot |\vec{w}| \cdot \cos(\theta)$
 
-$\vec{v} \cdot \vec{w} = |v| \cdot |w| \cdot \cos(180 \degree)$
+$\vec{v} \cdot \vec{w} = |\vec{v}| \cdot |\vec{w}| \cdot \cos(180 \degree)$
 
-$\vec{v} \cdot \vec{w} = |v| \cdot |w| \cdot -1$
+$\vec{v} \cdot \vec{w} = |\vec{v}| \cdot |\vec{w}| \cdot -1$
 
-$\vec{v} \cdot \vec{w} = - (|v| \cdot |w|)$ 👈
+$\vec{v} \cdot \vec{w} = - (|\vec{v}| \cdot |\vec{w}|)$ 👈
 
 Se o ângulo entre os vetores for $90 \degree$ (perpendiculares), o produto escalar é $0$
 
@@ -312,11 +320,11 @@ Veja:
 
 ![[vector_prod_04.png]]
 
-$\vec{v} \cdot \vec{w} = |v| \cdot |w| \cdot \cos(\theta)$
+$\vec{v} \cdot \vec{w} = |\vec{v}| \cdot |\vec{w}| \cdot \cos(\theta)$
 
-$\vec{v} \cdot \vec{w} = |v| \cdot |w| \cdot \cos(90 \degree)$
+$\vec{v} \cdot \vec{w} = |\vec{v}| \cdot |\vec{w}| \cdot \cos(90 \degree)$
 
-$\vec{v} \cdot \vec{w} = |v| \cdot |w| \cdot 0$
+$\vec{v} \cdot \vec{w} = |\vec{v}| \cdot |\vec{w}| \cdot 0$
 
 $\vec{v} \cdot \vec{w} = 0$ 👈
 

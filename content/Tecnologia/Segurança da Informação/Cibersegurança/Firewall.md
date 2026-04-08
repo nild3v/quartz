@@ -1,14 +1,15 @@
 ---
 tags:
   - Tecnologia
+  - Cibersegurança
 added: 2026-03-15
-updated: 2026-03-15
+updated: 2026-04-08
 ---
 > [!info] Recursos
-> - [📹 O que é Firewall? | PowerCert Animated Videos](https://www.youtube.com/watch?v=kDEX1HXybrU)
-> - [📹 O que é Firewall | Cloudflare](https://www.cloudflare.com/learning/security/what-is-a-firewall/)
-> - [📚 Firewall (Estrutura de Edifício) | Wikipedia](https://en.wikipedia.org/wiki/Firewall_(construction))
-> - [📚 UFW | DigitalOcean](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)
+> - [🎥 O que é Firewall? | PowerCert Animated Videos](https://www.youtube.com/watch?v=kDEX1HXybrU)
+> - [🎥 O que é Firewall | Cloudflare](https://www.cloudflare.com/learning/security/what-is-a-firewall/)
+> - [📄 Firewall (Estrutura de Edifício) | Wikipedia](https://en.wikipedia.org/wiki/Firewall_(construction))
+> - [📄 UFW | DigitalOcean](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)
 
 ## Introdução
 
