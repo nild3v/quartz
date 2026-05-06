@@ -48,7 +48,3 @@ $\begin{bmatrix}1 & 2\end{bmatrix} \to \begin{bmatrix}1 & 2 \\ 1 & 2 \\ 1 & 2  \
 Ainda faltará uma coluna e a soma entre ambas as matrizes não será possível
 
 [Acesse a documentação do NumPy para saber mais](https://numpy.org/doc/stable/user/basics.broadcasting.html#general-broadcasting-rules)
-
-
-
-

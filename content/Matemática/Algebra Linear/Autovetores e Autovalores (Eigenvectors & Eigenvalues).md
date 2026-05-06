@@ -46,5 +46,3 @@ Veja um exemplo de Autovetor:
 A linha rosa desenhada no plano indica a direção do vetor antes da transformação e perceba que o vetor amarelo ($\vec{v}$) não teve sua direção alterada, apenas seu comprimento aumentado
 
 Nesse caso o vetor foi escalado por um fator de $2$, porque ele saiu de $\begin{bmatrix} 3 \\ 2 \end{bmatrix}$ para $\begin{bmatrix} 6 \\ 4 \end{bmatrix}$ , logo, o Autovalor ($\lambda$) é $2$
-
-

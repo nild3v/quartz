@@ -5,7 +5,7 @@ tags:
 added: 2026-04-01
 updated: 2026-04-01
 ---
-Singular Value Decomposition> [!info] Recursos
+> [!info] Recursos
 > - [📄 Eigendecomposition of a Matrix | Wikipedia](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix)
 > - [🎥 Eigendecomposition Explained | DataMListic](https://www.youtube.com/watch?v=ihUr2LbdYlE)
 

@@ -24,4 +24,4 @@ Abaixo há um exemplo do que acontece quando se treina dois modelos de rede neur
 **Sem Funções de Ativação:**
 
 ![[universal_approximation_without_activation.gif]]
- 
+

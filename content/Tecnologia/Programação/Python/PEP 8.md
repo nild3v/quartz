@@ -102,7 +102,7 @@ def teste():
 
 class Teste:
 	def __init__(self):
-		pass
+	    pass
 
 
 variavel_2 = 2
